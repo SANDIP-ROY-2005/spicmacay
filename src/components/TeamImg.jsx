@@ -1,7 +1,7 @@
 import React from 'react'
 
 function TeamImg({name,src,post,facebook,insta}) {
-    const img = require(`./images/2020/${src}.jpg`)
+    const img = require(`../../public/2020/${src}.jpg`)
     return (
         <>
             <div>
