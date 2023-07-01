@@ -1,17 +1,18 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 function TeamImg({name,src,post,facebook,insta}) {
     const img = require(`../../public/2020/${src}.jpg`)
+    const [blur, setBlur] = useState(0)
     return (
         <>
             <div>
                 <div className="relative cursor-pointer overflow-hidden transition duration-300 transform shadow-lg lg:hover:-translate-y-2 hover:shadow-2xl">
                     <img
-                        className="object-cover object-center w-full "
+                        className={`object-cover object-center w-full ${blur?"blur-sm":""}`}
                         src={img}
                         alt={name}
                     />
-                    <div className="absolute inset-0 flex flex-col justify-center px-5 py-4 text-center transition-opacity duration-300 bg-black bg-opacity-75 opacity-0 hover:opacity-100">
+                    <div onMouseEnter={()=>setBlur(1)} onMouseLeave={()=>setBlur(0)} className={`absolute inset-0 flex flex-col justify-center px-5 py-4 text-center transition-opacity duration-300 bg-black bg-opacity-75 opacity-0 hover:opacity-100`}>
                         <p className="mb-1 text-lg font-bold text-gray-100">
                             {name}
                         </p>
