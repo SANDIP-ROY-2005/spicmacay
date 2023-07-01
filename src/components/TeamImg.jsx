@@ -5,9 +5,9 @@ function TeamImg({name,src,post,facebook,insta}) {
     return (
         <>
             <div>
-                <div className="relative rounded-xl cursor-pointer overflow-hidden transition duration-300 transform shadow-lg lg:hover:-translate-y-2 hover:shadow-2xl">
+                <div className="relative cursor-pointer overflow-hidden transition duration-300 transform shadow-lg lg:hover:-translate-y-2 hover:shadow-2xl">
                     <img
-                        className="object-cover object-top w-full h-56 md:h-64 xl:h-80"
+                        className="object-cover object-center w-full "
                         src={img}
                         alt={name}
                     />
