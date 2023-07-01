@@ -1,10 +1,11 @@
 import React from 'react'
 
 function GalleryImg(props) {
+    const img = require(`./images/${props.src}.jpg`)
     return (
         <>
-            <div class={`md:p-2 p-1 w-${props.w_ratio}`}>
-                <img alt="gallery" class="w-full object-cover h-full object-center block" src={`https://picsum.photos/${props.width}/${props.height}`} />
+            <div className={`md:p-2 p-1 w-${props.w_ratio}`}>
+                <img alt="gallery" width={props.width} height={props.height} className="w-full h-full object-cover object-top block" src={img} />
             </div>
         </>
     )
