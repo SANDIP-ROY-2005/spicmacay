@@ -6,6 +6,7 @@ function PreFinal() {
     <>
       <TeamImg year='2021' src='Souro1' name="Souro Chatterjee" post={"IT wing"} />
       <TeamImg year='2021' src='Aditya' name="Aditya Singh Bisht" post={"IT wing"}  />
+      <TeamImg year='2021' src='Soham' name="Soham Singha" post={"IT wing"}  />
       <TeamImg year='2021' src='Alangkrita' name="Alangkrita Mandal" post={"Dance wing"}  />
       <TeamImg year='2021' src='Aniket' name="Aniket Ghosh" post={"Music wing"}  />
       <TeamImg year='2021' src='Antara' name="Antara Shaw" post={"Art wing"}  />
@@ -19,6 +20,7 @@ function PreFinal() {
       <TeamImg year='2021' src='Madhurima' name="Madhurima Mondal" post={"Dance wing"} />
       <TeamImg year='2021' src='Meghna' name="Meghna Bhattacharya" post={"Content wing"} />
       <TeamImg year='2021' src='Porag' name="Mohaimenul Hok Porag" post={"Music wing"}  />
+      <TeamImg year='2021' src='Anusurya' name="Anusurya Bhowmick" post={"Music wing"}  />
       <TeamImg year='2021' src='Prajnan1' name="Prajnan Karmakar" post={"Dance wing"}  />
       <TeamImg year='2021' src='Prerna' name="Prerna Sharma" post={"Dance wing"} />
       <TeamImg year='2021' src='Satarupa ray' name="Satarupa Ray" post={"Dance wing"}  />

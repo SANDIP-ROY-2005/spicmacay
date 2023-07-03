@@ -7,13 +7,16 @@ import Events from './components/Events';
 import PresentTeam from './components/PresentTeam';
 import Home from './components/Home';
 import Contact from './components/Contact';
+import useColorScheme from './components/useColorScheme'
 
 function App() {
+  const dark = useColorScheme('dark')
+  console.log(dark)
   return (
-    <div className="">
-      <div className="max-w-[1600px] items-center justify-between mx-auto">
+    <div>
+      <div className={ `max-w-[1600px] items-center justify-between mx-auto`}>
         <BrowserRouter>
-          <Header />
+          <Header dark={dark} />
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/gallery" element={<Gallery />} />
@@ -21,7 +24,7 @@ function App() {
             <Route path="/team" element={<PresentTeam />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
-          <Footer />
+          <Footer dark={dark}/>
         </BrowserRouter>
       </div>
     </div>
