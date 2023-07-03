@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 
-function TeamImg({name,src,post,facebook,insta}) {
-    const img = require(`../../public/2020/${src}.jpg`)
+function TeamImg({name,src,post,year,facebook,insta}) {
+    const img = require(`../../public/${year}/${src}.jpg`)
     const [blur, setBlur] = useState(0)
     return (
         <>
@@ -40,6 +40,12 @@ function TeamImg({name,src,post,facebook,insta}) {
             </div>
         </>
     )
+}
+
+TeamImg.defaultProps = {
+    post:"",
+    facebook:"",
+    insta:""
 }
 
 export default TeamImg
