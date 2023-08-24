@@ -5,7 +5,7 @@ import Header from './components/Header';
 import Gallery from './components/Gallery';
 import Events from './components/Events';
 import PresentTeam from './components/PresentTeam';
-import Home from './components/Home';
+import Home from './components/Landing';
 import Contact from './components/Contact';
 import useColorScheme from './components/useColorScheme'
 

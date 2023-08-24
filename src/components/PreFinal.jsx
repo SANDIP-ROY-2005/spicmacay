@@ -8,9 +8,11 @@ function PreFinal() {
       <TeamImg year='2021' src='Aditya' name="Aditya Singh Bisht" post={"IT wing"}  />
       <TeamImg year='2021' src='Soham' name="Soham Singha" post={"IT wing"}  />
       <TeamImg year='2021' src='Alangkrita' name="Alangkrita Mandal" post={"Dance wing"}  />
+      <TeamImg year='2021' src='Aniruddha' name="Aniruddha Bandyopadhyay" post={"IT wing"}  />
       <TeamImg year='2021' src='Aniket' name="Aniket Ghosh" post={"Music wing"}  />
       <TeamImg year='2021' src='Antara' name="Antara Shaw" post={"Art wing"}  />
       <TeamImg year='2021' src='Aparajita' name="Aparajita Paul" post={"Art wing"}  />
+      <TeamImg year='2021' src='Sagar' name="Sagar Das" post={"Music wing"}  />
       <TeamImg year='2021' src='Arjo' name="Arjo Kundu" post={"IT wing"}  />
       <TeamImg year='2021' src='Bedabrata1' name="Bedabrata Brahma" post={"Dance wing"}  />
       <TeamImg year='2021' src='CP' name="Chandra Prakash Singh" post={"Content wing"}  />
