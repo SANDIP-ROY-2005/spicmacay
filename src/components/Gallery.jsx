@@ -8,7 +8,7 @@ const Gallery = () => {
         <div className="container px-2 py-16 mx-auto ">
           <div className="flex flex-col items-center justify-center w-full mb-20 flex-wrap">
             <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4">Journey through some auspicious moments captured in lenses</h1>
-            <p className="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>
+            <p className="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">Embark on a visual journey through our captivating photo gallery. Each snapshot tells a unique story, inviting you to discover the artistry in every image. Welcome to a world where moments come to life through the lens.</p>
           </div>
           <div className='picture-layout grid'>
             <GalleryImg src="24" />
