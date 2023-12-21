@@ -24,6 +24,12 @@
   *::-webkit-scrollbar{
     display: none;
   }
+
+  #event-heading{
+    background: rgb(238,104,8);
+    background: linear-gradient(90deg, rgba(238,104,8,1) 10%, rgba(236,10,36,1) 97%);
+    background-clip: text;
+  }
   
   #events{
     background: url('./mandala_bg.jpg') no-repeat center center/cover;

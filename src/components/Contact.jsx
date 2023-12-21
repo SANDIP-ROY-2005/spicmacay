@@ -20,7 +20,7 @@ const Contact = () => {
 
         <div className="grid grid-cols-1 gap-12 mt-10 lg:grid-cols-3">
           <div className="grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-1">
-            <div>
+            {/* <div>
               <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -47,7 +47,7 @@ const Contact = () => {
               <p className="mt-2 text-sm text-blue-500 dark:text-blue-400">
                 hello@merakiui.com
               </p>
-            </div>
+            </div> */}
 
             <div>
               <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
@@ -88,7 +88,7 @@ const Contact = () => {
               </p>
             </div>
 
-            <div>
+            {/* <div>
               <span className="inline-block p-3 text-blue-500 rounded-full bg-blue-100/80 dark:bg-gray-800">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -115,7 +115,7 @@ const Contact = () => {
               <p className="mt-2 text-sm text-blue-500 dark:text-blue-400">
                 +1 (555) 000-0000
               </p>
-            </div>
+            </div> */}
           </div>
 
           <div className="overflow-hidden rounded-lg lg:col-span-2 h-96 lg:h-auto">
