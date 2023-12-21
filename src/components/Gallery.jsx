@@ -13,8 +13,8 @@ const Gallery = () => {
           <div className='picture-layout grid'>
             <GalleryImg src="24" />
             <GalleryImg src="18" />
-            <GalleryImg src="5" />
-            <GalleryImg src="16" />
+            <GalleryImg src="27" />
+            <GalleryImg src="23" />
             <GalleryImg src="19" />
             <GalleryImg src="28" />
           </div>
