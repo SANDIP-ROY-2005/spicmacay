@@ -4,37 +4,27 @@ import TeamImg from './TeamImg'
 function PreFinal() {
   return (
     <>
-      <TeamImg year='2021' src='Souro1' name="Souro Chatterjee" post={"IT wing"} />
-      <TeamImg year='2021' src='Aditya' name="Aditya Singh Bisht" post={"IT wing"}  />
-      <TeamImg year='2021' src='Soham' name="Soham Singha" post={"IT wing"}  />
-      <TeamImg year='2021' src='Alangkrita' name="Alangkrita Mandal" post={"Dance wing"}  />
-      <TeamImg year='2021' src='Aniruddha' name="Aniruddha Bandyopadhyay" post={"IT wing"}  />
-      <TeamImg year='2021' src='Aniket' name="Aniket Ghosh" post={"Music wing"}  />
-      <TeamImg year='2021' src='Antara' name="Antara Shaw" post={"Art wing"}  />
-      <TeamImg year='2021' src='Aparajita' name="Aparajita Paul" post={"Art wing"}  />
-      <TeamImg year='2021' src='Sagar' name="Sagar Das" post={"Music wing"}  />
-      <TeamImg year='2021' src='Arjo' name="Arjo Kundu" post={"IT wing"}  />
-      <TeamImg year='2021' src='Bedabrata1' name="Bedabrata Brahma" post={"Dance wing"}  />
-      <TeamImg year='2021' src='CP' name="Chandra Prakash Singh" post={"Content wing"}  />
-      <TeamImg year='2021' src='Debarpan2' name="Debarpan Bandyopadhay" post={"IT wing"}  />
-      <TeamImg year='2021' src='Hiresh2' name="Hiresh Shah" post={"Art wing"}  />
-      <TeamImg year='2021' src='Jai khanna' name="Jai Khanna" post={"Content wing"}  />
-      <TeamImg year='2021' src='Madhurima' name="Madhurima Mondal" post={"Dance wing"} />
-      <TeamImg year='2021' src='Meghna' name="Meghna Bhattacharya" post={"Content wing"} />
-      <TeamImg year='2021' src='Porag' name="Mohaimenul Hok Porag" post={"Music wing"}  />
-      <TeamImg year='2021' src='Anusurya' name="Anusurya Bhowmick" post={"Music wing"}  />
-      <TeamImg year='2021' src='Prajnan1' name="Prajnan Karmakar" post={"Dance wing"}  />
-      <TeamImg year='2021' src='Prerna' name="Prerna Sharma" post={"Dance wing"} />
-      <TeamImg year='2021' src='Satarupa ray' name="Satarupa Ray" post={"Dance wing"}  />
-      <TeamImg year='2021' src='Satarupa roy' name="Satarupa Roy" post={"Dance wing"}  />
-      <TeamImg year='2021' src='Sneha' name="Sneha Ghosh" post={"Content wing"}  />
-      <TeamImg year='2021' src='Sohan' name="Sohan Bera" post={"IT wing"}  />
-      <TeamImg year='2021' src='Souharda' name="Souharda Shankar" post={"Music wing"}  />
-      <TeamImg year='2021' src='Soumyadip' name="Soumyadeep Mahato" post={"Art wing"}  />
-      <TeamImg year='2021' src='Soumyajit1' name="Soumyajit Majumdar" post={"Music wing"}  />
-      <TeamImg year='2021' src='Subhabrata' name="Subhabrata Das" post={"IT wing"}  />
-      <TeamImg year='2021' src='Subhajit' name="Subhajeet Mukherjee" post={"Music wing"}  />
-      <TeamImg year='2021' src='Sujata' name="Sujata Rajak" post={"Art wing"}  />
+      <TeamImg year='2022' src='aishika' name="Aishika Pal"  />
+      <TeamImg year='2022' src='ananya' name="Ananya Chatterjee"  />
+      <TeamImg year='2022' src='anubhav' name="Anubhav Mondal"  />
+      <TeamImg year='2022' src='laxmi' name="Laxmi Mondal"  />
+      <TeamImg year='2022' src='durba' name="Durba Sinha"  />
+      <TeamImg year='2022' src='ashmita' name="Ashmita Dhar"  />
+      <TeamImg year='2022' src='ishani' name="Ishani Sarkar"  />
+      <TeamImg year='2022' src='bishakha' name="Bishakha Sen"  />
+      <TeamImg year='2022' src='pratyusha' name="Pratyusha Barman"  />
+      <TeamImg year='2022' src='ojoshmi' name="Ojoshmi Dey"  />
+      <TeamImg year='2022' src='shrestha' name="Shrestha Mondal"  />
+      <TeamImg year='2022' src='ritayan' name="Ritayan Mukherjee"  />
+      <TeamImg year='2022' src='joyjit' name="Joyjit Rajbanshi"  />
+      <TeamImg year='2022' src='mithila' name="Mithila Das"  />
+      <TeamImg year='2022' src='samikshya' name="Samikshya Panda"  />
+      <TeamImg year='2022' src='abhirup' name="Abhirup Chattopadhyay"  />
+      <TeamImg year='2022' src='pratham' name="Pratham Nandy"  />
+      <TeamImg year='2022' src='rahul' name="Rahul Mondal"  />
+      <TeamImg year='2022' src='lena' name="Lena Joshy M"  />
+      <TeamImg year='2022' src='rubel' name="Rubel Gayen"  />
+      <TeamImg year='2022' src='bishal' name="Bishal Biswas"  />
     </>
   )
 }
