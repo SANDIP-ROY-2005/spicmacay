@@ -30,6 +30,7 @@ function Second() {
       <TeamImg year='2023' src='swapnil' name="Swapnil Sinha"  />
       <TeamImg year='2023' src='deba' name="Deba Arpita Karan"  />
       <TeamImg year='2023' src='anwesha' name="Anwesha Panda"  />
+      <TeamImg year='2023' src='snehanshu' name="Snehanshu Ghatak"  />
     </>
   )
 }
