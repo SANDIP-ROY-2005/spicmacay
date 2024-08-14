@@ -94,7 +94,9 @@
     padding: 0.5em 1.25em;
     border-radius: 0.25rem;
   }
-  
+  /* nav{
+    
+  } */
   .button:hover,
   .button:focus {
     background-color: var(--clr-neutral-100);
